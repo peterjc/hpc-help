@@ -22,6 +22,8 @@ Preprints:
 
 2026:
 
+- https://doi.org/10.1038/s42003-026-09858-7 - DNA-based identification of plants and the genomic nature of plant species differences
+- https://doi.org/10.1093/aob/mcag084 - A global phylogenetic framework for Diospyros L. (Ebenaceae, Ericales): enhanced taxon and sample coverage through NGS, Sanger sequencing and herbariomics
 - https://doi.org/10.1099/mic.0.001724 - Clinical Rel mutations that increase basal (p)ppGpp promote conjugal transfer of staphylococcal resistance plasmids
 - https://doi.org/10.1002/nzb2.70079 - Validating Oxford Nanopore Technologies Amplicon Sequencing as an Alternative to Sanger Sequencing for Generating Plant Molecular Markers
 - https://doi.org/10.24823/Sibbaldia.2026.2130 - What lives within and on a plant: our understanding from genome NGS data 
