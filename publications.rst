@@ -5,6 +5,7 @@ This is a list of peer-reviewed publications that were made possible due to thei
 
 Preprints:
 
+- https://doi.org/10.1101/2025.10.08.681091 - Environmental DNA Reveals Reykjavík’s Human and Ecological History
 - https://doi.org/10.64898/2026.04.28.720590 - Genomic diversity of elm trees for future treescapes
 - https://doi.org/10.64898/2026.03.11.710847 - EoRNA2: Autonomous Data Discovery and Processing for Databasing of Gene Expression Data
 - https://doi.org/10.1101/2025.07.14.664697 - pyRootHair: Machine Learning Accelerated Software for High-Throughput Phenotyping of Plant Root Hair Traits
@@ -22,6 +23,7 @@ Preprints:
 
 2026:
 
+- https://doi.org/10.1111/nph.71287 - Barley HvBODYGUARD1 controls cuticular specialisations regulated by SHINE transcription factors
 - https://doi.org/10.1038/s42003-026-09858-7 - DNA-based identification of plants and the genomic nature of plant species differences
 - https://doi.org/10.1093/aob/mcag084 - A global phylogenetic framework for Diospyros L. (Ebenaceae, Ericales): enhanced taxon and sample coverage through NGS, Sanger sequencing and herbariomics
 - https://doi.org/10.1099/mic.0.001724 - Clinical Rel mutations that increase basal (p)ppGpp promote conjugal transfer of staphylococcal resistance plasmids
@@ -41,6 +43,8 @@ Preprints:
 
 2025:
 
+- https://doi.org/10.1126/science.adx2022 - Post-Domestication selection of MKK3 Shaped Seed Dormancy and End-Use Traits in Barley
+- https://doi.org/10.1038/s41477-025-02128-0 - Striking convergent selection history of wheat and barley and its potential for breeding
 - https://doi.org/10.1111/mmi.70000 - Staphylococcus aureus COL: An Atypical Model Strain of MRSA That Exhibits Slow Growth and Antibiotic Tolerance due to a Mutation in PRPP Synthetase
 - https://doi.org/10.1099/mgen.0.001404 - Integrated population clustering and genomic epidemiology with PopPIPE
 - https://doi.org/10.1101/2025.08.01.668108 - BeeSAM2: detecting bees in cherry flowers using timelapse images and foundational models
