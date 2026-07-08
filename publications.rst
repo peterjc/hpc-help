@@ -43,6 +43,7 @@ Preprints:
 
 2025:
 
+- https://doi.org/10.1098/rspb.2025.1570 - Biomimetic robots reveal flexible adjustment of sexual signalling in a wild invertebrate
 - https://doi.org/10.1126/science.adx2022 - Post-Domestication selection of MKK3 Shaped Seed Dormancy and End-Use Traits in Barley
 - https://doi.org/10.1038/s41477-025-02128-0 - Striking convergent selection history of wheat and barley and its potential for breeding
 - https://doi.org/10.1111/mmi.70000 - Staphylococcus aureus COL: An Atypical Model Strain of MRSA That Exhibits Slow Growth and Antibiotic Tolerance due to a Mutation in PRPP Synthetase
