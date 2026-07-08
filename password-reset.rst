@@ -7,7 +7,7 @@ If you've forgotten your HPC password, you can use the form below to initiate a 
 
     <p><form action="https://help.cropdiversity.ac.uk/scripts/passwords/generate-link.sh" method="get">
         <label for="email">Email address:</label>
-        <input type="text" size=35 id="email" name="email" />
+        <input type="email" size="35" id="email" name="email" required />
         <input type="submit" value="Submit"/>
     </form></p>
 
