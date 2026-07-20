@@ -97,14 +97,13 @@ You will want to start the end point explicitly saying where it can write the da
 
   $ globusconnectpersonal-3.2.8/globusconnectpersonal -start -restrict-paths ~/MY_PROJECT &
 
-You can now get the magic string identifying this temporary Globus end point running on the cluster::
-
-  $ globus endpoint local-id
-
-You should now be able to start the transfer to this ID using the Globus website,
-or the `Globus CLI <https://docs.globus.org/cli/>`__::
+You can now get the magic string identifying this temporary Globus end point running on the cluster using the `Globus CLI <https://docs.globus.org/cli/>`__::
 
   $ pip install globus-cli
+  $ globus endpoint local-id
+
+You should now be able to start the transfer to this ID using the Globus website, or the Globus CLI::
+
   $ globus transfer -r <SOURCE-MAGIC-ID>:<SOURCE-PATH>/ "$(globus endpoint local-id)":~/MY_PROJECT/
 
 There is no feedback at the terminal, check `Globus Activity <https://app.globus.org/activity>`__,
