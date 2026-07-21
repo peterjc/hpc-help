@@ -109,7 +109,7 @@ It's also worth noting - especially when running large or complex jobs - that jo
   ``$SCRATCH`` is auto purged of all files and folders older than 180 days' old, once per month. You can use a tool like ``touch`` to update timestamps, but note that continual abuse of this facility to make ``$SCRATCH`` a permanent location for storage is unfair to others. Your usage is monitored and you **will** lose your privilege to use the service as a result.
 
 .. warning::
-  If you store more than 25T of data in ``$SCRATCH`` you won't be able to run more than one job simultaneously.
+  If you store more than 25TB of data in ``$SCRATCH`` you won't be able to run more than one job simultaneously.
 
 
 Local scratch
