@@ -50,9 +50,9 @@ To do this, we primarily use three main queues/partitions called ``short``, ``me
    * - ``gpu``
      - 1,664
      - 384G-1T
-     - cpu=256
+     - cpu=256 gpus=8
      - 14 days
-     - This queue is for jobs requiring :doc:`gpu`.
+     - This queue is for jobs requiring :doc:`gpu`. Max 8x A100 or 4x L40S.
    * - ``himem``
      - 1,152
      - 512G-4T
