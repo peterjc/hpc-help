@@ -23,6 +23,7 @@ Preprints:
 
 2026:
 
+- https://doi.org/10.1002/ppp3.70250 - Large language models unlock large text corpora in the search for data on medicinal plants and fungi
 - https://doi.org/10.1111/nph.71287 - Barley HvBODYGUARD1 controls cuticular specialisations regulated by SHINE transcription factors
 - https://doi.org/10.1038/s42003-026-09858-7 - DNA-based identification of plants and the genomic nature of plant species differences
 - https://doi.org/10.1093/aob/mcag084 - A global phylogenetic framework for Diospyros L. (Ebenaceae, Ericales): enhanced taxon and sample coverage through NGS, Sanger sequencing and herbariomics
