@@ -24,19 +24,19 @@ To do this, we primarily use three main queues/partitions called ``short``, ``me
      - Time Limit
      - Description
    * - ``short``
-     - 768
+     - 1,024
      - 256-384G
      - cpu=256 mem=256G
      - 6 hours
      - This is a high priority queue for smaller jobs with thresholds set to allow smaller jobs to squeeze through that might have to wait in the other queues.
    * - ``medium``
-     - 1,536
+     - 2,048
      - 256-384G
      - cpu=256 mem=256G
      - 24 hours
      - This is the default queue that all jobs will submit to unless otherwise requested.
    * - ``long``
-     - 1,792
+     - 2,304
      - 256-384G
      - cpu=384 mem=384G
      - 14 days
@@ -48,13 +48,13 @@ To do this, we primarily use three main queues/partitions called ``short``, ``me
      -
      -
    * - ``gpu``
-     - 1,664
+     - 1,744
      - 384G-1T
      - cpu=256 gpus=8
      - 14 days
      - This queue is for jobs requiring :doc:`gpu`. Max 8x A100 or 4x L40S.
    * - ``himem``
-     - 1,152
+     - 1,408
      - 512G-4T
      - cpu=256 mem=>32G
      - 14 days
