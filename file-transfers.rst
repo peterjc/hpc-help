@@ -90,7 +90,8 @@ We can send data to the cluster by temporarily running `Globus Connect Personal 
   $ globusconnectpersonal-3.2.8/globusconnectpersonal -h
   $ globusconnectpersonal-3.2.8/globusconnectpersonal -dir . -setup
 
-You will be prompted to login at a given URL, and then enter the passphrase given by their website at the terminal.
+You will be prompted to login at a given URL, enter a name for this end point (eg "Your Name on Gruffalo").
+You must then enter the passphrase given by their website at the terminal connected to Gruffalo.
 This will make a subdirectory `lta/` with configuration information.
 
 You will want to start the end point explicitly saying where it can write the data (otherwise it defaults to your home folder). Note the trailing ampersand as this will run in the background::
@@ -112,7 +113,7 @@ which will also allow cancelling transfers. You should get an email when it fini
 
 Finally, stop your end point::
 
-  $ globusconnectpersonal-3.2.8/globusconnectpersonal -start
+  $ globusconnectpersonal-3.2.8/globusconnectpersonal -stop
 
 If your connection to the cluster is lost, log in again and restart `globusconnectpersonal`
 and any active transfers should resume.
